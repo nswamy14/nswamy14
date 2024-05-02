@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![nswamy14 Nuxter profile](https://nuxters.nuxt.com/card/nswamy14/og.png)](https://nuxters.nuxt.com/nswamy14)
+
 <!--
 **nswamy14/nswamy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
