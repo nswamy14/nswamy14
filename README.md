@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     Full-stack engineer with expertise in web graphics, data visualization, and cybersecurity. <br/>
-    <a href="www.linkedin.com/in/nswamy14">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/nswamy14">LinkedIn</a>
   </samp>
 </p>
 </td>
