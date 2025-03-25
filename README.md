@@ -5,7 +5,7 @@
   <td>
 <p align="center">
   <samp>
-    Engineer with expertise in building full-stack applications, data visualization, and cybersecurity. <br/>
+    Engineer with expertise in building full-stack applications, crafting rich data visualizations, and cybersecurity. <br/>
     <a href="https://www.linkedin.com/in/nswamy14">LinkedIn</a>
   </samp>
 </p>
